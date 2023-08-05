@@ -1,5 +1,12 @@
 # Montenegro (ME) IBAN validation checker.
 
+  ### Steps for running the project:
+
+  1. Clone the repo.
+  2. Run: `npm install` to install dependencies.
+  3. run `npm run dev` to start the application.
+  
+
   ### VALID (ME) IBAN EXAMPLES:
 
   `ME25505000012345678951`
