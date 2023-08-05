@@ -5,8 +5,6 @@ const App: React.FC = () => {
   const [isIbanValid, setIsIbanValid] = useState<boolean>(false);
   const [iBan, setIban] = useState<string>('');
 
-  
-  
   const calculateCheckDigits = () => {
     setValidation(true);
 
